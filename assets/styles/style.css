@@ -1,0 +1,40 @@
+.container{
+    /* border: 1px dashed rgb(133, 133, 133); */
+}
+.header{
+min-height: 70px;
+}
+.block{
+    font-size: 1rem;
+    align-content: center;
+    height: 100%;
+    padding: 25px;
+}
+.main{
+    min-height: auto;
+    padding: 20px 10px;
+}
+.main .col{
+    min-height: 260px;
+    background-color: rgb(238, 238, 238);
+    margin-bottom: 10px;
+}
+.main.container{}
+.row .cards{
+    min-height: 200px;
+    
+}
+.card{
+    margin-bottom: 10px;
+}
+.card__image{
+    background-color: gray;
+    padding: 70px;
+    
+}
+.card img{
+    width: 100%;
+}
+.footer{
+    min-height: 70px;
+    }
